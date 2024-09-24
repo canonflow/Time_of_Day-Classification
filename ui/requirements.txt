@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+matplotlib
+opencv-python
+pandas
+pathlib
+glob2
+regex
+pickleshare
+streamlit
+joblib

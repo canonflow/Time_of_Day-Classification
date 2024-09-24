@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+matplotlib
+opencv-python
+pandas
+pathlib
+tensorflow<2.11
+glob2
+regex
+ipython-autotime
+pickleshare
