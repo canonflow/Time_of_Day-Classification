@@ -1,5 +1,5 @@
 ## About This Project
-In this project, I implement Machine Learning algorithms such as K-Nearest Neighbor (KNN) and Support Vector Machine (SVM) to classify time of day that has 3 main classes (**daytime**, **nighttime**, and **sunrise**). The aim of this project is to compare performance from those 2 algorithms. We use K-Fold Cross Validation with cv = 5 to validate our model. Before that, we also preprocess the images using **Smoothing**, **Sharpening**, and **Resize**.
+In this project, I implement Machine Learning algorithms such as K-Nearest Neighbor (KNN) and Support Vector Machine (SVM) to classify time of day that has 3 main classes (**daytime**, **nighttime**, and **sunrise**). The aim of this project is to compare performance from those 2 algorithms. We use K-Fold Cross Validation with cv = 5 to validate our model. Before that, we also preprocess the images using **Smoothing**, **Sharpening**, and **Resizing**.
 
 ## Getting Started for Model
 *__Requirements__*
